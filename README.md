@@ -2,7 +2,7 @@
 
 ## Sobre mim
 👨‍💻 Sou um estudante de Ciência da Computação apaixonado por desenvolver soluções inovadoras com tecnologia.  
-🌱 Atualmente estou aprimorando minhas habilidades em linguagens como C, Python, HTML, CSS, JavaScript, PHP e TypeScript, além de explorar frameworks como Vue.js e Laravel.
+🌱 Atualmente estou aprimorando minhas habilidades em linguagens como JavaScript, PHP e TypeScript, além de explorar frameworks como Vue.js e Laravel, com obejtivo de me tomar um fullStack.
 
 ## Tecnologias Estudadas
 
