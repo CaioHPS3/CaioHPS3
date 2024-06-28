@@ -1,7 +1,7 @@
 # Olá, Eu sou Caio Henrique! 😁
 
 ## Sobre mim
-👨‍💻 Sou um estudante de Ciência da Computação apaixonado por desenvolver soluções com tecnologia.  
+👨‍💻 Sou estudante de Ciência da Computação apaixonado por desenvolver soluções com tecnologia.  
 🌱 Atualmente estou aprimorando minhas habilidades em linguagens como JavaScript, PHP e TypeScript, além de explorar frameworks como Vue.js e Laravel afim de melhorar com FullStack.
 
 ## Tecnologias Estudadas
